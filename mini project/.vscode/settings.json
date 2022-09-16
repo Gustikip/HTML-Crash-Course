@@ -1,0 +1,10 @@
+{
+    "files.watcherExclude": {
+        "*.js": true,
+        "build/output": true
+    },
+    "files.watcherInclude": [
+        "assets"
+    ],
+    "files.autoGuessEncoding": true
+}
